@@ -5,5 +5,6 @@
 </head>
 <body>
   <h1>Profile page</h1>
+  <h2><a href="/logout">LOGOUT</a></h2>
 </body>
 </html>
